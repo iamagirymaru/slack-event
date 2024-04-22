@@ -1,8 +1,8 @@
 ## Запуск проекта
-Backend:
+## Backend:
 1. `docker-compose build`
 2. `docker-compose up`
-Frontend:
+## Frontend:
 1. `cd ./slack-event-client`
 2. `npm run start`
 3. `npm run build`
