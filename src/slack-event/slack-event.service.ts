@@ -59,7 +59,9 @@ export class SlackEventService implements OnModuleInit {
     async onModuleInit() {
         setImmediate(async () => {
 
-            const domain = 'gmail.com';
+            // const domain = 'gmail.com';
+            const domain = 'foxford.ru';
+
             const blocks = [
                 {
                     "type": "section",
